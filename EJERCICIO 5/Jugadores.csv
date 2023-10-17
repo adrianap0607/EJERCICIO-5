@@ -1,0 +1,13 @@
+nombre ,pais ,errores ,aces,totalServicios,recibos ,pases,fintas,ataques,bloqueosEfectivos,bloqueosFallidos,tipoJugador 
+Juan Perez,Mexico,5,3,100,80,50,20,60,15,5,Libero 
+Maria Gomez ,Argentina ,8,2,120,110,40,25,70,10,7,Pasador 
+Carlos Rodriguez ,Brasil,10,4,90,85,45,30,55,20,8,Auxiliar 
+Laura Martinez ,Italia ,6,3,110,95,50,20,70,15,5,Libero 
+Javier Lopez ,Francia ,7,2,120,100,42,28,65,12,6,Pasador 
+Ana Sanchez ,Alemania ,9,5,95,85,48,22,58,18,7,Auxiliar 
+Diego Fernandez ,Estados Unidos ,4,4,105,100,47,25,68,13,4,Libero 
+Paula Garcia ,Canada ,8,3,115,100,49,30,62,17,6,Pasador 
+Luis Hernandez ,España ,6,2,110,105,51,22,67,15,6,Auxiliar 
+Bryan,Palacios,5,65,45,Pasador,23,56,
+Bryan,Palacios,5,65,45,Pasador,23,56,
+Adriana,Martinez,1,23,85,Pasador,45,89,
